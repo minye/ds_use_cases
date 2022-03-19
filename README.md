@@ -7,9 +7,21 @@
   - data science: I bring experience in the areas of (data science in) biomedicine, legal tech, IoT.
   - web3: learning about smart contracts and love drawing myself 
 - 📫 How to reach me:
-  feel free to drop me a line to minye.epfl@gmail.com 
+  feel free to drop me an email to minye.epfl@gmail.com 
 
 <!---
 minye/minye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+-------------------
+
+This repository is dedicated to depict the general concept of how to tackle a problem like customer churn prediction. 
+As all complete data science projects, it comprises the following parts: 
+- business and data understanding 
+- exploratory data analysis (EDA) 
+- data preparation 
+- modeling 
+- model evaluation 
+
+Please, beware that in real-world scenarios, these parts are undergone iteratively before a model is deployed. And after such model deployment, the maintenance and updating of the model also needs such continuous iterations.
