@@ -16,7 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 -------------------
 
-This repository is dedicated to depict the general concept of how to tackle a problem of 'customer churn prediction'. 
+This repository is dedicated to give first inspirations on how to tackle general business use cases, each folder denotes one use case.
+
+The folder "churn_prediction" depicts the general concept of how to tackle a problem of 'customer churn prediction'. 
 The dataset used in this repository is the KAGGLE dataset for "churn for bank customers": https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers .
 
 As all complete data science projects, it comprises the following parts: 
